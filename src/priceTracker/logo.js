@@ -2,7 +2,7 @@ import React from 'react';
 import logo from '../images/logo.png'
 import {Col, Container, Row} from "reactstrap";
 
-function Logo(props) {
+function Logo() {
     return (
         <>
             <Container>
