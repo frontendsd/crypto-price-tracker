@@ -1,0 +1,14 @@
+body {
+    background-color: #000000!important;
+}
+.green {
+    color: #008000;
+}
+.red {
+    color: #ff0000;
+}
+
+table {
+    background-color: red!important;
+    cursor: pointer;
+}
